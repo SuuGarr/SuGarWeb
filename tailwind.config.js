@@ -13,6 +13,7 @@ module.exports = {
       '2xl': '1536px',
     },
     extend: {
+      display: ['responsive'],
       margin: {
         '270px': '270px',
       },
