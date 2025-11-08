@@ -15,7 +15,7 @@ import { ExperienceComponent } from './experience/experience.component';
     HomeComponent,
     AboutMeComponent,  
     ProjectComponent,
-    ExperienceComponent
+    ExperienceComponent,
   ]
 })
 export class AppComponent {
